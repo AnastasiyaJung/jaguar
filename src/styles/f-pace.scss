@@ -1,0 +1,62 @@
+.f-pace {
+    width: 100%;
+    background-color: black;
+}
+
+.first-slider {
+    width: 1320px;
+    margin: 0 auto;
+}
+
+.f-pace__title{
+    font-size: 24px;
+    font-family: 'Roboto Condensed',  Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: white;
+    letter-spacing: 5.2px;
+    padding: 60px ;
+
+}
+
+.f-pace-content{
+    text-transform: uppercase;
+    color: white;
+    // font-family: "Proxima-Nova";
+    // font-size: 24px;
+    padding: 60px ;
+    display: flex;
+    flex-direction: column;
+}
+.f-pace-content__title{
+    font-family: 'Roboto Condensed',  Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 5.2px;
+    margin-bottom: 60px;
+}
+.f-pace-content__button{
+width: 175px;
+height: 53px;
+background-color: #3C3C3B;
+border: none;
+color: white;
+font-size: 10px;
+font-family: 'Roboto Condensed',  Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+letter-spacing: 2.2px;
+}
+
+.f-pace-content__link{
+    color: white;
+    font-family: "Proxima-Nova-light", Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-top: 26px;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+        color: white;
+        cursor: pointer;
+    }
+}

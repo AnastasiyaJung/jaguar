@@ -1,0 +1,71 @@
+.wimblendon {
+    width: 100%;
+    background-color: rgb(20, 20, 20);
+    padding: 60px;
+}
+
+.fourth-slider {
+    width: 1320px;
+    margin: 0 auto;
+}
+
+.wimblendon__title {
+    font-size: 24px;
+    font-family: 'Roboto Condensed',  Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: white;
+    letter-spacing: 5.2px;
+    padding: 60px;
+
+}
+
+.carousel-caption {
+    left: 0px;
+    bottom: -30px;
+    width: 100%;
+}
+.wimblendon-content {
+    background-color: rgb(20, 20, 20);
+    color: white;
+    // font-family: "Proxima-Nova";
+    // font-size: 24px;
+    padding: 37px 0px 60px 0px;
+    display: flex;
+    // flex-direction: column;
+}
+
+.wimblendon-content__title {
+    font-family: 'Roboto Condensed',  Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    letter-spacing: 5.2px;
+    width: 360px;
+    text-align: left;
+}
+.wimblendon-content-right{
+    display: flex;
+    flex-direction: column;
+    width: 560px;
+}
+
+.wimblendon-content__button {
+    width: 177px;
+    height: 45px;
+    background-color: #3C3C3B;
+    border: none;
+    color: white;
+    font-size: 10px;
+    font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin-top: 24px;
+}
+
+.wimblendon-content__text {
+    color: white;
+    font-family: 'Roboto Condensed',  Arial, Helvetica, sans-serif;
+    font-weight: 300;    
+    font-size: 13px;
+    // margin-top: 26px;
+    text-decoration: none;
+    text-align: left;
+}

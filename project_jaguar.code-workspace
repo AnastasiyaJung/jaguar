@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../ДЗ/project_1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project_jaguar"
+	}
+}
