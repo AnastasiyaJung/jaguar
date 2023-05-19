@@ -5,7 +5,7 @@
 }
 
 .fourth-slider {
-    width: 1320px;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -58,6 +58,13 @@
     font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;    text-transform: uppercase;
     letter-spacing: 4px;
     margin-top: 24px;
+
+    &:hover {
+        background-color: black;
+        border: 1px solid white;
+        cursor: pointer;
+    }
+
 }
 
 .wimblendon-content__text {

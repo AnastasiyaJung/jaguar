@@ -43,6 +43,11 @@ font-size: 10px;
 font-family: 'Roboto Condensed',  Arial, Helvetica, sans-serif;
     font-weight: 400;text-transform: uppercase;
 letter-spacing: 2.2px;
+&:hover {
+    background-color: black;
+    border: 1px solid white;
+    cursor: pointer;
+}
 }
 
 .i-pace-content__link{
